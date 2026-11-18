@@ -2,15 +2,15 @@
 Year-end project from second year of video games studies with a team of 7 developers and 3 graphic designers
 
 ## Play the game
-*Go release
+* Go release
 
-*Download the game
+* Download the game
 
-*Launch DemoSFML.exe
+* Launch DemoSFML.exe
 
 ## Restart from 0
-*Go in "Saves" folder
+* Go in "Saves" folder
 
-*Delete all files in
+* Delete all files in
 
-*Launch the game
+* Launch the game
